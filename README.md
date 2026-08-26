@@ -32,6 +32,8 @@ Managing code across personal accounts or scattered repositories creates frictio
 
 ## Getting started
 
+**Before you begin, please read the [Guidelines](CEGIS_GitHub_Organisation_Guidelines.pdf).**
+
 **For all contributors (Tech Team and beyond):**
 
 1. Request access via the `.github` repository → *New Issue* → *Access Request* - mention your team and what you want to contribute or view.
